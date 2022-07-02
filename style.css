@@ -1,0 +1,63 @@
+.cap{
+    margin: 0 15% 0 15%;
+    padding: 1px 1px 0 1px;
+    background-color: wheat;
+}
+
+.dd{
+    font-size: 30px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.lbuttun{
+    position: absolute;
+    margin-left: 400px;
+    border: 0;
+    border-radius: 30px;
+}
+
+.lbuttun:hover{
+    background-color: blue;
+}
+
+.wel{
+    position: absolute;
+    font-size: 20px;
+    margin-left: -300px;
+    color: #fff;
+}
+
+.cape_1{
+    margin: 0 15% 0 15%;
+    padding: 5px;
+    background-image: linear-gradient(30deg, red 100px, orange, yellow, green, aqua, blue, pink);
+}
+
+.menu{
+    background-color: grey;
+    margin: 0 15% 0 15%;
+}
+
+.menu button{
+    border: 0;
+    background-color: grey;
+    margin-left: 20px;
+    padding: 23px 55px 23px 2px;
+    color: black;
+    font-size: 20px;
+}
+
+.menu button:hover{
+    background-color: rgba(0, 0, 0, 0.300);
+}
+
+.menu input{
+    font-size: 30px;
+    
+}
+
+.menu i:hover{
+    border-radius: 50%;
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.300);
+}
